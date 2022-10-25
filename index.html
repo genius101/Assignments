@@ -1,40 +1,45 @@
 <!DOCTYPE html>
+<!-- Using the image: active-states.jpg in the images folder for the assignment -->
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Learning FlexBox</title>
+    <title>Wk4 FlexBox Ass</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <main>
-      <div class="top-content">
-        <h3>Join our Community</h3>
-        <p class="p-top">30-day, hassle-free money back guarantee</p>
-        <p>
-          Gain access to our full library of tutorials along with expert code
-          reviews.
-        </p>
-        <p>
-          Perfect for any developers who are serious about honing their skills.
-        </p>
-      </div>
-      <div class="bottom-content">
-        <div class="first-bottom">
-          <h3>Monthly Subscription</h3>
-          <p>$29 per month</p>
-          <p>Full Access for less than $1 a day</p>
-          <button>Sign Up</button>
+        <div class="parent-flex">
+            <div class="sedan">
+                <img src="img/sedans.svg" alt="" />
+                <h2>SEDANS</h2>
+                <p>
+                  Choose a Sedan for its affordability and excellent fuel economy.
+                  Ideal for cruising in the city or on your next road trip
+                </p>
+                <button style="background-color: #E28425;">Learn More</button>
+            </div>
+            <div class="suv">
+                <img src="img/suvs.svg" alt="" />
+                <h2>SUVS</h2>
+                <p>
+                  Take an SUV for spacious interior, power and versitility. Perfect
+                  for your next family vacation and off-road adventures
+                </p>
+                <button style="background-color: #016871;">Learn More</button>
+            </div>
+            <div class="luxury">
+                <img src="img/luxury.svg" alt="" />
+                <h2>LUXURY</h2>
+                <p>
+                  Cruise in the best car brands without the bloated prices. Enjoy
+                  the enhanced comfort of a luxury rental and arrive in style.
+                </p>
+                <button style="background-color: #00403F;">Learn More</button>
+            </div>
         </div>
-        <div class="second-bottom">
-          <h3>Why Us</h3>
-          <p>DevOps</p>
-          <p>Cloud Computing</p>
-          <p>Front End</p>
-          <p>FullStack</p>
-        </div>
-      </div>
+        
     </main>
   </body>
 </html>
