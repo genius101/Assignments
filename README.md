@@ -1,7 +1,16 @@
-Zuri Assignment 5 to be pushed
+Zuri Assignment 3 to be pushed
 
-This is Zuri Project week 4 on Git and GitHub.
+This is Zuri Project week 3 on 
 
-But there is nothing to be pushed here because there was no project to be worked on.
+CSS Fundamentals 
+To build a simple HTML & CSS-driven website with a few linked pages and styled content.
+
+AND
+
+Using HTML and CSS
+To Create the following pages using HTML CSS:
+Registration page
+Login page
+Success register page
 
 
