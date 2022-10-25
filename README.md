@@ -1,1 +1,3 @@
-# Zuri Assignments 3 to 5 to be pushed to this Repo
+# Zuri Assignments 3 to be pushed
+
+This contains a project about using flexbox
